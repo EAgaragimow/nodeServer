@@ -1,0 +1,17 @@
+{
+    "name": "task-manager",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.3",
+        "express-myconnection": "^1.0.4",
+        "mysql": "^2.15.0",
+        "request": "^2.85.0"
+    }
+}
